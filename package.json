@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A command line interface for bitcoind",
   "main": "index.js",
   "bin": "./bin/bitcoin-cli",
@@ -10,7 +10,7 @@
   "author": "Yemel Jardi <angel.jardi@gmail.com> (http://github.com/yemel)",
   "license": "MIT",
   "dependencies": {
-    "bitcoind-rpc": "^0.2.1",
-    "minimist": "^1.1.0"
+    "bitcoind-rpc": "^0.7.1",
+    "minimist": "^1.2.0"
   }
 }
