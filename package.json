@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "bitcoind-rpc": "^0.7.1",
-    "minimist": "^1.2.0"
+    "minimist": "^1.1.0"
   }
 }
